@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">2_1_1_Mutually_Exclusive_CheckBox</string>
+    <string name="app_name">Взаимоисключающие CheckBox</string>
+    <string name="btn_ok">Ок</string>
+    <string name="Enter_the_amount">Введите сумму</string>
+    <string name="Enter_the_payment_description">Введите описание платежа</string>
+    <string name="From_a_Bank_card">С банковской карты</string>
+    <string name="From_mobile">С мобильного телефона</string>
+    <string name="In_cash_at_the_address">Наличными по адресу</string>
 </resources>
