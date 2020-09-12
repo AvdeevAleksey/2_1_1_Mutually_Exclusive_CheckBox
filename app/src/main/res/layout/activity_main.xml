@@ -13,6 +13,7 @@
         android:layout_marginEnd="12dp"
         android:layout_marginRight="12dp"
         android:layout_marginTop="36dp"
+        android:onClick="btnOkClicked"
         android:text="@string/btn_ok"
         app:layout_constraintEnd_toEndOf="@+id/cashCheckBox"
         app:layout_constraintTop_toBottomOf="@+id/cashCheckBox" />

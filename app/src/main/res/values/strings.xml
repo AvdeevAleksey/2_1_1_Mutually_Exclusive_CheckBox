@@ -2,8 +2,14 @@
     <string name="app_name">Взаимоисключающие CheckBox</string>
     <string name="btn_ok">Ок</string>
     <string name="Enter_the_amount">Введите сумму</string>
-    <string name="Enter_the_payment_description">Введите описание платежа</string>
-    <string name="From_a_Bank_card">С банковской карты</string>
-    <string name="From_mobile">С мобильного телефона</string>
-    <string name="In_cash_at_the_address">Наличными по адресу</string>
+    <string name="Enter_the_payment_description">Ввод информации об оплате</string>
+    <string name="From_a_Bank_card">с банковской карты</string>
+    <string name="From_mobile">с мобильного телефона</string>
+    <string name="In_cash_at_the_address">наличными по адресу</string>
+    <string name="paid">оплачено</string>
+    <string name="Payment_method_not_selected">Не выбран способ оплаты</string>
+    <string name="Payment_details_for_the_amount">Платежные реквизиты на сумму</string>
+    <string name="used_to_pay_for">направлены для оплаты</string>
+    <string name="Invalid_payment_amount">Неверная сумма платежа</string>
+    <string name="Invalid_payment_attribute">Неверные атрибуты платежа</string>
 </resources>
